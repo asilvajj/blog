@@ -6,9 +6,7 @@ p {
     width: 500px;
     border: 1px solid black;
   }
-p {
-    
-    p, li, h1, h2{
-        color: red;
-      }
-}
+
+  p, li, h1 {
+    color: rgb(162, 0, 255);
+  }
