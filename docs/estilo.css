@@ -7,7 +7,7 @@ p {
     border: 1px solid black;
   }
 p {
-    color: rgba(110, 218, 245, 0.795);
+    
     p, li, h1, h2{
         color: red;
       }
